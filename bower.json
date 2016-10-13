@@ -1,0 +1,28 @@
+{
+  "name": "jquery.scrollUp",
+  "main": ["jquery.scrollUp.min.js", "jquery.scrollUp.min.css"],
+  "authors": [
+    "Milok Murlyka <milok.murlika@yandex.ru>"
+  ],
+  "description": "To scroll the page up button",
+  "keywords": [
+    "jquery",
+    "scroll",
+    "up",
+    "page"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "prepros.cfg",
+    "README.md"
+  ],
+  "dependencies": {
+    "bootstrap": ">= 3.0.0"
+  }
+}
